@@ -1,4 +1,8 @@
 ## Experience
+*November 2019 – January 2020*  
+**Back-end engineer**  
+company - Freelans  
+Back-end development with Nodejs, Express.js, MongoDb, Docker.
 
 *July 2019 – October 2019*  
 **Back-end engineer**  
@@ -35,7 +39,7 @@ Software courses Main Academy, Ukraine PHP, Nodejs
 
 * **OS:** Linux, Windows
 * **Programming:** Node JS, PHP, Ajax, JSON, OOP, SOLID
-* **Frameworks:** Express,Mocha,Feathers,
+* **Frameworks:** Express,Mocha,Feathers,Nest.js.
 * **Databases:** Mongo, Postgre, MySQL.
 * **DevOps:** Docker, OpenServer, Denver, Apache.
 * **Libraries:** Mongoose, Lodash.js, Mocha, JQuery.
